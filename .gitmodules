@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/vviers/vviers.github.io.git
 	branch = master
+[submodule "vviers.github.io"]
+	path = vviers.github.io
+	url = git@github.com:vviers/vviers.github.io.git
+	branch = master
